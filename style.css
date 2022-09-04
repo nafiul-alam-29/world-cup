@@ -134,3 +134,39 @@ main {
   justify-content: space-around;
   font-size: 16px;
 }
+
+/* footer style start here */
+
+.footer {
+  background-color: black;
+  font-family: "poppins";
+  text-align: center;
+}
+
+.footer h1 {
+  align-items: center;
+  display: block;
+  color: #ffffff;
+  line-height: 60px;
+  padding: 80px;
+  font-size: 80px;
+}
+
+hr {
+  border: 1px solid #e8e8e8;
+  align-items: center;
+  width: 80%;
+}
+
+.footer-nav {
+  display: flex;
+  gap: 2em;
+  padding: 100px;
+  justify-content: center;
+}
+
+.footer-nav a {
+  font-size: 24px;
+  text-decoration: none;
+  color: #b9b9b9;
+}
