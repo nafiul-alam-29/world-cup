@@ -148,12 +148,6 @@ main {
   color: #4d4d4d;
 }
 
-.transfer-duration {
-  display: flex;
-  justify-content: space-around;
-  font-size: 16px;
-}
-
 /* footer style start here */
 
 .footer {
